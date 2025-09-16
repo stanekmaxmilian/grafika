@@ -1,4 +1,4 @@
-##desitkova na dvojkovou 283(10) na ?(2)
+## desitkova na dvojkovou 283(10) na ?(2)
 283 :2 = 141 zbytek 1 
 141 :2 = 70  zbytek 1
 70  :2 = 35  zbytek 0
@@ -8,4 +8,4 @@
 4   :2 = 2   zbytek 0 
 2   :2 = 1   zbytek 0 
 1   :2 = 0   zbytek 1   
-##---> 283(10) -> 100011011(2)
+## ---> 283(10) -> 100011011(2)
